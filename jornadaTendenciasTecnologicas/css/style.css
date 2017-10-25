@@ -473,6 +473,7 @@ ul.footer-menu li a:hover {
 }
 .jt-event-timeline ul li .jt-single-event p {
     margin-bottom: 5px;
+	font-weight: bold;
 }
 .jt-single-event .jt-event-time {
     color: #08C4E1;
@@ -481,6 +482,7 @@ ul.footer-menu li a:hover {
     margin-top: 10px;
     margin-bottom: 5px;
     font-size: 16px;
+	font-weight: bold;
 }
 .jt-event-timeline ul li .jt-single-event span {
     font-size: 14px;
