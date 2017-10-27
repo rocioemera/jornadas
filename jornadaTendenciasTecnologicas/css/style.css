@@ -232,7 +232,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#40aec9', end
 
 .footer {
     background-color: #2a2a2a;
-    margin-top: 30px;
+    /*margin-top: 30px;*/
     color: #fff;
 }
 .footer p {
@@ -387,6 +387,7 @@ ul.footer-menu li a:hover {
     text-align: center;
     padding-top: 10px;
     padding-bottom: 10px;
+	color: white;
 }
 #jt-fecha-evento > h3{
     font-size: 30px;
@@ -394,7 +395,14 @@ ul.footer-menu li a:hover {
 #jt-texto-cabecera{
     text-align: center;
     margin-bottom: 10px;
+	color: white;
 }
+#jt-texto-cabecera li{
+    text-align: center;
+    margin-bottom: 10px;
+	color: white;
+}
+
 #jt-boton-tickets{
     text-align: center;
     margin-bottom: 10px;
@@ -542,4 +550,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#40aec9', end
 }
 .jt-speaker{
     
+}
+.div-banner{
+	background-color: #002236;
+	height: 400px;
+}
+.div-map{
+	padding-left:0px;
+	padding-right:0px;
 }
