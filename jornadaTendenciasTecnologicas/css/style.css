@@ -529,6 +529,7 @@ ul.footer-menu li a:hover {
     transition: all 0.3s ease 0s;
 }
 .jt-single-taller > div{
+	min-height: 120px;
     margin: 10px ;
     padding: 10px;
     /*background-color: #08C4E1;*/
@@ -558,4 +559,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#40aec9', end
 .div-map{
 	padding-left:0px;
 	padding-right:0px;
+}
+.speaker-workshop{
+	float:left;
+	height: 100px;
 }
